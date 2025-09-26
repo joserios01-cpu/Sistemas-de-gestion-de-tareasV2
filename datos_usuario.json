@@ -1,0 +1,1 @@
+{"jose": {"contrasena": "1234", "tareas": [{"titulo": "Tirar basura", "descripcion": "Tirar la basura en la caja", "fecha_vencimiento": "2025-05-24", "completado": true}, {"titulo": "Saludar", "descripcion": "2", "fecha_vencimiento": "2025-10-30", "completado": false}]}, "paco": {"contrasena": "4567", "tareas": []}}
